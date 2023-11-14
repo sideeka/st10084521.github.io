@@ -1,6 +1,6 @@
 <h1>Privacy Policy</h1>
 
-<h2>Last updated: November 08, 2023></h2>
+<h2>Last updated: November 08, 2023</h2>
 
 <h3>This Privacy Policy describes Our policies and procedures on the collection, use and
 disclosure of Your information when You use the Service and tells You about Your privacy
@@ -9,13 +9,14 @@ We use Your Personal data to provide and improve the Service. By using the Servi
 agree to the collection and use of information in accordance with this Privacy Policy. This
 Privacy Policy has been created with the help of the Free Privacy Policy Generator.</h3>
 
-Interpretation and Definitions
-Interpretation
+<h2>Interpretation and Definitions</h2>
+<h3>Interpretation
 The words of which the initial letter is capitalized have meanings defined under the
 following conditions. The following definitions shall have the same meaning regardless of
-whether they appear in singular or in plural.
-Definitions
-For the purposes of this Privacy Policy:
+whether they appear in singular or in plural.</h3>
+
+<h2>Definitions</h2>
+<h3>For the purposes of this Privacy Policy:
 Account means a unique account created for You to access our Service or parts of
 our Service.
 Affiliate means an entity that controls, is controlled by or is under common control
@@ -42,9 +43,10 @@ visit).
 
 You means the individual accessing or using the Service, or the company, or other
 legal entity on behalf of which such individual is accessing or using the Service, as
-applicable.
-Collecting and Using Your Personal Data
-Types of Data Collected
+applicable.</h3>
+
+<h2>Collecting and Using Your Personal Data</h2>
+<h3>Types of Data Collected
 Personal Data
 While using Our Service, We may ask You to provide Us with certain personally identifiable
 information that can be used to contact or identify You. Personally identifiable information
@@ -167,9 +169,10 @@ Security of Your Personal Data
 The security of Your Personal Data is important to Us, but remember that no method of
 transmission over the Internet, or method of electronic storage is 100% secure. While We
 strive to use commercially acceptable means to protect Your Personal Data, We cannot
-guarantee its absolute security.
-Children's Privacy
-Our Service does not address anyone under the age of 13. We do not knowingly collect
+guarantee its absolute security.</h3>
+
+<h2>Children's Privacy</h2>
+<h3>Our Service does not address anyone under the age of 13. We do not knowingly collect
 personally identifiable information from anyone under the age of 13. If You are a parent or
 guardian and You are aware that Your child has provided Us with Personal Data, please
 contact Us. If We become aware that We have collected Personal Data from anyone under
@@ -183,17 +186,18 @@ Our Service may contain links to other websites that are not operated by Us. If 
 third party link, You will be directed to that third party's site. We strongly advise You to
 review the Privacy Policy of every site You visit.
 We have no control over and assume no responsibility for the content, privacy policies or
-practices of any third party sites or services.
-Changes to this Privacy Policy
-We may update Our Privacy Policy from time to time. We will notify You of any changes by
+practices of any third party sites or services.</h3>
+
+<h2>Changes to this Privacy Policy</h2>
+<h3>We may update Our Privacy Policy from time to time. We will notify You of any changes by
 posting the new Privacy Policy on this page.
 We will let You know via email and/or a prominent notice on Our Service, prior to the
 change becoming effective and update the "Last updated" date at the top of this Privacy
 Policy.
 
 You are advised to review this Privacy Policy periodically for any changes. Changes to this
-Privacy Policy are effective when they are posted on this page.
-Contact Us
-If you have any questions about this Privacy Policy, You can contact us:
-• By email: sideekaayoob01@gmail.com
+Privacy Policy are effective when they are posted on this page.</h3>
 
+<h2>Contact Us</h2>
+<h3>If you have any questions about this Privacy Policy, You can contact us:
+• By email: sideekaayoob01@gmail.com</h3>
